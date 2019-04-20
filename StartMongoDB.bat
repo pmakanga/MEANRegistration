@@ -1,0 +1,1 @@
+cd C:\Program Files\MongoDB\Server\4.0\bin mongod.exe --dbpath D:\my-Tests\2019\MEANRegistration\Data
